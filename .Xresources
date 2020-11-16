@@ -1,0 +1,17 @@
+URxvt.font:        xft: monospace:size=11
+URxvt.scrollBar:   false
+URxvt.foreground:  #bbc2cf
+URxvt.background:  #282c34
+URxvt.cursorColor: #bbc2cf
+
+
+
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: true
+Xft.hintstyle: hintfull
+Xft.lcdfilter: lcdfilter
+
+
